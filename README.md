@@ -159,13 +159,3 @@ I’m always happy to connect with developers, recruiters, fellow learners, or a
 Thanks for stopping by! 🌙✨
 
 </div>
-
-Why this version is much stronger
-
-Your old README basically tells a recruiter “I’m completely new and learning JavaScript.” That’s now actively underselling you.
-
-This one immediately communicates Java → Spring Boot → PostgreSQL → backend, while your Image Hosting Service gets the biggest spotlight because it’s a much stronger proof of ability than a list of technologies. I also kept JavaScript/HTML/CSS, but moved them down so nobody mistakes you for a frontend candidate.
-
-I deliberately removed the “escape bad jobs / work from anywhere” stuff. It’s funny and genuine, but now that you’re using GitHub as part of actual job applications, it doesn’t help your professional positioning.
-
-And the Developer.java section replaces the old JavaScript object. That’s a small detail, but it’s way more consistent with the developer you’re presenting yourself as now. ☕🌙
