@@ -1,138 +1,171 @@
-# Hey there! 👋
+Hey there! 👋 I’m Shadi
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub!;I'm+Shadi+%F0%9F%8C%99;New+dev+alert!+%F0%9F%9A%80;Learning+%26+building+cool+stuff)](https://git.io/typing-svg)
-
 </div>
 
----
+⸻
 
-## 🌟 A little about me...
+🌙 About Me
 
-Hey! I'm Shadi (they/them/she/he), and I just started my coding journey – super new to all of this but honestly? I'm excited! 
+I’m Shadi, a Junior Java Backend Developer based in the Netherlands 🇳🇱.
 
-Here's the thing: I'm not doing this just to "learn to code." I've got some real reasons pushing me forward:
-- **No to being stuck in a country!** – I want freedom to work from anywhere
-- **Make tools for my own life** – tired of waiting for apps that don't exist yet
-- **Escape bad jobs forever! 😃** – building my own future, one line of code at a time
+I’m currently completing the HackYourFuture Software Development program, where I’ve been building backend applications with Java, Spring Boot and PostgreSQL.
 
-When I'm not staring at my screen debugging something that *should* work but doesn't, you'll find me drawing, knitting, or experimenting with makeup. Yeah, I'm a creative person trying to figure out tech – we exist! 🎨
+What started with HTML, CSS and JavaScript has gradually turned into a much bigger interest in backend development. I especially enjoy working on the parts users don’t necessarily see: APIs, databases, application logic, authentication, testing and figuring out why something isn’t working the way I expected it to. 😅
+
+I learn best by building things, breaking them, debugging them, and then wondering why I didn’t see the problem two hours earlier.
+
+Outside of code, I’m a creative person too. I enjoy drawing, knitting and makeup — so my brain tends to bounce between technical problems and making things look nice. 🎨
+
+⸻
+
+🛠️ Tech Stack
+
+Backend
 
 <div align="center">
-  
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 </div>
 
----
-
-## 💭 What gets me curious
-
-- 🌐 **Web development** – making things look good AND work well
-- 🔐 **Cyber security** – because privacy matters (and hacking looks cool in movies)
-- ✨ **UI/UX design** – the pretty side of coding
-- 🤖 **Automation** – lazy is efficient, right?
-- 🎮 **Interactive experiences** – games, animations, you name it
-
----
-
-## 🛠️ What I know (so far!)
-
-**Languages I'm learning:**
-
+Testing & APIs
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 </div>
 
-**Tools I use:**
+Tools & Delivery
 
 <div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Command Line](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
 </div>
 
-**My Masterpiece Unti now :**
+Frontend
 
-```javascript
-const Shadi = {
-  pronouns: "they/them" || "she/he",
-  motivation: [
-    "No to being stuck in a country!",
-    "Make tools for my own life",
-    "Escape bad jobs forever! 😃"
-  ],
-  hobbies: ["drawing", "knitting", "make up!"],
-  technologies: ["JS", "HTML", "CSS"]
+<div align="center">
+</div>
+
+⸻
+
+🚀 Featured Project
+
+🖼️ Image Hosting Service
+
+A full-stack image hosting application built around a Java/Spring Boot backend.
+
+Some of the things I implemented:
+
+* REST API with Spring Boot
+* PostgreSQL database with Flyway migrations
+* User registration, login and session-based authentication
+* Image upload and object storage
+* RabbitMQ-based asynchronous image tagging
+* JSONB storage for image tags
+* Search functionality
+* Expiring public share links
+* Unit and integration testing
+* Dockerized development environment
+* CI/CD with GitHub Actions
+* Deployment on Railway
+* Application monitoring and logs with Grafana
+
+🔗 View Repository⁠￼
+
+🌐 Live Demo⁠￼
+
+⸻
+
+💻 Other Projects
+
+🎟️ Ticket Tracking Backend
+
+A Java/Spring Boot backend for managing projects, tickets, team members and assignments.
+
+Built with: Java, Spring Boot, Spring JDBC, PostgreSQL, Docker, JUnit and Mockito.
+
+The project includes role-based project membership, ticket assignment and status management, database integration, REST APIs and automated testing.
+
+🏫 School Manager
+
+A backend project focused on modelling and managing school-related data while practising Java application architecture, relational database design and REST API development.
+
+🎉 Local Events Platform
+
+Currently working with a team on a local events platform as part of HackYourFuture.
+
+My main focus is the backend events domain, including event data modelling, categories, locations, search/filtering and API design.
+
+⸻
+
+🧠 What I’m Working On
+
+Right now I’m focused on getting better at:
+
+* Writing clean and maintainable Java
+* Spring Boot application architecture
+* REST API design
+* PostgreSQL and database modelling
+* Asynchronous processing with RabbitMQ
+* Caching and session management with Redis
+* Testing beyond the happy path
+* Docker and CI/CD
+* Building applications that actually survive outside localhost 😃
+
+Long term, I’m also interested in exploring AI/ML and the mathematics behind it.
+
+⸻
+
+☕ Developer.java
+
+public class Shadi {
+    private final String role = "Junior Java Backend Developer";
+    private final String[] stack = {
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "RabbitMQ",
+        "Redis",
+        "Docker"
+    };
+    public void solveProblem() {
+        while (!testsAreGreen()) {
+            debug();
+            questionEverything();
+            tryAgain();
+        }
+    }
+    public void learn() {
+        build();
+        breakThings();
+        understandWhy();
+        buildAgain();
+    }
 }
-```
 
----
+⸻
 
-## 📚 What I'm dying to learn next
-
-- **React** – everyone keeps talking about it
-- **TypeScript** – apparently it makes JS better?
-- **Node.js** – backend sounds scary but also exciting
-- **Tailwind CSS** – because writing CSS from scratch is exhausting
+📊 GitHub
 
 <div align="center">
-  
-![Learning GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
+<br>
 </div>
 
----
+⸻
 
-## 📊 My GitHub Stats
+💌 Let’s Connect
+
+I’m currently building my backend portfolio and looking for opportunities to grow as a Junior Java Backend Developer.
+
+I’m always happy to connect with developers, recruiters, fellow learners, or anyone building something interesting.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmoonwalker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9745F5&text_color=C8D3F5)](https://github.com/anuraghazra/github-readme-stats)
+Thanks for stopping by! 🌙✨
 
 </div>
 
----
+Why this version is much stronger
 
-## 🔥 My Streak
+Your old README basically tells a recruiter “I’m completely new and learning JavaScript.” That’s now actively underselling you.
 
-<div align="center">
+This one immediately communicates Java → Spring Boot → PostgreSQL → backend, while your Image Hosting Service gets the biggest spotlight because it’s a much stronger proof of ability than a list of technologies. I also kept JavaScript/HTML/CSS, but moved them down so nobody mistakes you for a frontend candidate.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shmoonwalker&theme=radical&hide_border=true&background=0D1117&ring=9745F5&fire=FF6B9D&currStreakLabel=C8D3F5)](https://git.io/streak-stats)
+I deliberately removed the “escape bad jobs / work from anywhere” stuff. It’s funny and genuine, but now that you’re using GitHub as part of actual job applications, it doesn’t help your professional positioning.
 
-</div>
-
----
-
-## 💌 Let's connect!
-
-I'm still figuring things out, so if you're also new to coding or just want to chat about tech, makeup, or the best yarn for a cozy scarf – hit me up!
-
-📧 **Email:** sh.moonwalker7@gmail.com
-
-<div align="center">
-  
-![Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-### Thanks for stopping by! ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=shmoonwalker&color=blueviolet&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-  <i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
-  <br>
-  <sub>— Someone wise (and that applies to coding too!)</sub>
-</div>
+And the Developer.java section replaces the old JavaScript object. That’s a small detail, but it’s way more consistent with the developer you’re presenting yourself as now. ☕🌙
